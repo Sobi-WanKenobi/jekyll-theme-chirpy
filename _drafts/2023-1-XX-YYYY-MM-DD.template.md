@@ -12,13 +12,13 @@ You don't have to read it, but you just might learn something.
 
 ## Leading Thought
 
-![alt](../../../assets/img/self-documenting/X.gif)
+![alt](../../../assets/img/self-documenting/X.gif){: width="500"  .left-no-float }
 
 ---
 
 ## Prime
 
-### [X]()
+### []()
 
 Text
 
@@ -30,7 +30,7 @@ Text
 
 ## Coming Soon
 
-### [con](https://url/)
+### [con]()
 
 (Dates &#124; Virtual)
 
@@ -42,7 +42,7 @@ Text
 
 ## Humble Bundles
 
-### [X Book Bundle](X)
+### [X Book Bundle]()
 
 New offering from [Humble Bundle](https://www.humblebundle.com/) benefitting [X](https://) -- and, if you don't know it's there, there is an *Adjust Donation* button that will let you give more of the take to charity! For a minimum donation of $40 you get 18 titles, including:
 
