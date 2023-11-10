@@ -1,5 +1,5 @@
 # READ ME
-I am Ken Sobieski, and this is my personal README, a version of the [Manager README](https://useworkshop.com/resources/manager-readme-template-example/), using a format from [Mike Petrovich](https://petro.blog/my-personal-readme-13287f18223d) which I found seemed to work well for non-managers . The intent is to help anyone who works with me understand me better.
+I am Ken Sobieski -- *Sobi-Wan Kenobi*, or simply *Sobi-Wan* to some -- and this is my personal README, a version of the [Manager README](https://useworkshop.com/resources/manager-readme-template-example/), using a format from [Mike Petrovich](https://petro.blog/my-personal-readme-13287f18223d) which I found seemed to work well for non-managers . The intent is to help anyone who works with me understand me better.
 
 ## Beliefs
 If there is one thing that overrides all others, it's that relationships matter more than anything else in this world. You can go to work every day, and yet not really *know* anyone, or you can make the effort to build relationships that create trust. A high-trust team will always perform better over the long term.
